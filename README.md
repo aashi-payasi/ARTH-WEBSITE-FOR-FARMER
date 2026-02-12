@@ -60,6 +60,8 @@ focuses only on trusted mandi sources.
 - Backend structure planned using Node.js and Express and json 
 - Mock mandi price data created for demonstration
 - Core workflow demonstrated (proof of concept)
+- we have submitted the codes of both frontend and backend(use of api key),but we just need to coneect them to get the real data for our website.this is pending only
+  
 
 ---
 
